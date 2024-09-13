@@ -1,13 +1,12 @@
 ---
-title: "Problem Set 2"
+title: "PHW251 Problem Set 2"
 author: "Your name here"
 date: "today"
 format: pdf
 editor: visual
 ---
 
--   Due date: September 11 at 11:59 PM (PST)
--   Submission process: Please submit your assignment directly to Gradescope. You can do this by rendering your file and downloading the PDF to your computer. Then navigate to [Gradescope.com](https://www.gradescope.com) or via the link on BCourses to submit your assignment.
+Submission process: Please submit your assignment directly to Gradescope. You can do this by rendering your file and downloading the PDF to your computer. Then navigate to [Gradescope.com](https://www.gradescope.com) or via the link on BCourses to submit your assignment.
 
 Helpful hints:
 
