@@ -38,12 +38,12 @@ Goals:
 
     -   Milestones
 
-        1.  Create group repository and choose scenario (9/25)
-        2.  Import data into R and explore it (due 10/2)
-        3.  Tidy your 3+ datasets and create new variables (due 11/6)
-        4.  Join datasets and create visualizations (due 11/20)
-        5.  Optional draft of final report for input (due 11/27)
-        6.  Final product published on rpubs (due 12/10)
+        1.  Create group repository and choose scenario (9/30)
+        2.  Import data into R and explore it (due 10/7)
+        3.  Tidy your 3+ datasets and create new variables (due 11/11)
+        4.  Join datasets and create visualizations (due 11/25)
+        5.  Optional draft of final report for input (due 12/2)
+        6.  Final product published on rpubs (due 12/15)
 
 -   Collaboration techniques
 
