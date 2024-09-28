@@ -71,16 +71,6 @@ Goals:
 
         -   Utilize "sandbox" scripts for each team member to develop and test code before adding to the shared script
 
-```{r df1_import}
-#Lauren will work on things in this chunk
-
-
-```
-
-```{r df2_import}
-#Maddy will work on things in this chunk
-
-```
 
 ## Exercise: Tidying data
 
